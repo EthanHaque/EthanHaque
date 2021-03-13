@@ -1,16 +1,11 @@
-### Hi there 👋
+### Hey there, I'm Ethan 👋
+My name is Ethan Haque, and I am a senior at the Illinois Mathematics and Science academy. 
+I am an aspiring software-engineer/medical-doctor combo, and I am passionate about making free, open-source
+software.
+<br>
+<br>
+I've done a little bit of everything from [full-stack web development](https://otsdaq.fnal.gov/tutorials_v2/) (ask me about this!) to
+teaching from-scratch courses on [machine learning](https://github.com/EthanHaque/neural-networks-class) to creating highly stable plant 
+[protein variants](https://digitalcommons.imsa.edu/sir_presentations/2020/session2/57/) to combat climate change.
 
-<!--
-**EthanHaque/EthanHaque** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 
