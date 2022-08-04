@@ -1,5 +1,5 @@
 ### Hey there, I'm Ethan 👋
-My name is Ethan Haque, and I am a freshman at Princeton University. 
+My name is Ethan Haque, and I am a student at Princeton University. 
 I am an aspiring software-engineer/medical-doctor combo, and I am passionate about making free, open-source
 software.
 <br>
